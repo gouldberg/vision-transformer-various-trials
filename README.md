@@ -1,5 +1,5 @@
 # vision-transformer-various-trials
-- I have tried image classification by training ViT and other interesting models by small dataset cifar10 and cifar100, and also have compared with ResNet faminly model as baseline.
+- I have tried image classification by training **ViT and other interesting models** by small dataset cifar10 and cifar100, and also have compared with ResNet family model as baseline.
 - **Models** covered here are:
   - **ViT**
   - **SwinTransformer**
@@ -9,4 +9,5 @@
   - **ConvMixer**
   - **MLPMixer**
     - https://github.com/lucidrains/mlp-mixer-pytorch/blob/main/mlp_mixer_pytorch/mlp_mixer_pytorch.py
-- see 'vit.py' under 'src' folder for scripts to train those models.
+- See 'vit.py' under 'src' folder for scripts to train those models.
+  - Sorry for not providing logs and comparison analysis of image classification here.
